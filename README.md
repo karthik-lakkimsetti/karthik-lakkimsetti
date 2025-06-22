@@ -17,10 +17,14 @@
 
 ---
 
-## 📌 Highlight Project
+## 🚀 My Deployed Projects
 
-### 🔗 [Bank Loan Approval Prediction System](https://github.com/karthik-lakkimsetti/BankLoanPrediction)
-A smart machine learning model that predicts loan approval using RandomForest, with a beautiful **Gradio UI**.
+### 🏦 Bank Loan Approval Predictor [Live Demo 🔗](https://huggingface.co/spaces/karthik-lakkimsetti/bank-loan-predictor)
+An end-to-end ML project using RandomForestClassifier and Gradio. Built for real-time bank loan prediction based on Indian financial inputs.
+
+🧠 **Skills**: Python, Machine Learning, Scikit-learn, Gradio, Deployment  
+📂 [GitHub Source Code](https://github.com/karthik-lakkimsetti/BankLoanPrediction)
+
 
 <img src="https://raw.githubusercontent.com/karthik-lakkimsetti/BankLoanPrediction/main/Screenshot_UI.png" width="700" alt="Gradio UI Screenshot"/>
 
